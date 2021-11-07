@@ -7,9 +7,7 @@ I am Om Prakash Shah, a passionate and creative developer from [🇮🇳 ](https
 
 I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, DigitalOcean, AWS,GCP,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana,Kibana and Logstash.
 
-I am currently working as a Data Scientist @[Ineuron.ai](https://ineuron.ai/). I am also a Kaggle Notebook Master and working in a domain of Data Science and Cloud from past 2 years. I have also contributed to some of the big projects like **@meshery** , **@Knative** , **@Porter**, **@Tensorflow**, **@Thanos**, etc.
-
-Along with my full-time job, I also work in maintaining and building open source organization like @𝐏𝐲𝐃𝐚𝐭𝐚 𝐆𝐮𝐧𝐚, @𝐏𝐢𝐞&𝐚𝐢 𝐆𝐮𝐧𝐚, @𝐊𝐚𝐠𝐠𝐥𝐞 𝐃𝐚𝐲𝐬 𝐌𝐞𝐞𝐭𝐮𝐩 𝐃𝐞𝐥𝐡𝐢 𝐍𝐂𝐑 and Participating in Kaggle Competetions, Hackathons and Conferences.
+I am currently working as a Problem Setter at CodeChef_CUChapter. I am also into Competitive Programming since last 1 year and have reached 4⭐ at CodeChef and Pupil at Codeforces and many other platforms. I have also contributed to some of the small projects and looking to do more.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=omprakashshah7&label=Profile%20views&color=0e75b6&style=plastic" alt="omprakashshah7" /> </p>
 
@@ -93,7 +91,7 @@ Along with my full-time job, I also work in maintaining and building open source
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=omprakashshah7&layout=compact" alt="omprakashshah7"/>
+<p align="center"> <img src="https://github-stats-readme.omprakashshah7.vercel.app/api/top-langs/?username=omprakashshah7&layout=compact" alt="omprakashshah7"/>
 
 </details>
 
@@ -113,7 +111,7 @@ Along with my full-time job, I also work in maintaining and building open source
 ## 📫 How to reach me? 
 
   <!-- ⦿ Visit my [Website](https://ritesh-yadav.netlify.app/) 🌐 <br> -->
-  ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
+  <!-- ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br> -->
   ⦿ Follow me on [Instagram](https://www.instagram.com/issa_omprakash/)🎨 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/om-prakash-shah-860461203) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/omprakash) 🐦 <br>
