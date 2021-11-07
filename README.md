@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Om Prakash Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-I am [Ritesh](https://ritesh-yadav.netlify.app/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Natural Language Processing🤖.
+I am Om Prakash Shah, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in Web Development⚙️, Natural Language Processing🤖 and Competitive Programming.
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashshah7&theme=algolia" alt="omprakashshah7" /></p>
 
@@ -86,21 +86,21 @@ Along with my full-time job, I also work in maintaining and building open source
   <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
 
-<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" alt="DARK-art108" />
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=omprakashshah7&show_icons=true&theme=radical" alt="omprakashshah7" />
 
 </details>
 
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" alt="DARK-art108"/>
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=omprakashshah7&layout=compact" alt="omprakashshah7"/>
 
 </details>
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/DARK-art108"><img alt="Ritesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DARK-art108&theme=dracula" /></a>
+   <a href="https://github.com/omprakashshah7"><img alt="Om's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omprakashshah7&theme=dracula" /></a>
   <br/>
 
 </details>
@@ -112,11 +112,11 @@ Along with my full-time job, I also work in maintaining and building open source
   
 ## 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://ritesh-yadav.netlify.app/) 🌐 <br>
+  <!-- ⦿ Visit my [Website](https://ritesh-yadav.netlify.app/) 🌐 <br> -->
   ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
-  ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav2011/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/RiteshYadav_1) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:daydreamingguy941@gmail.com) 💌 <br>
+  ⦿ Follow me on [Instagram](https://www.instagram.com/issa_omprakash/)🎨 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/om-prakash-shah-860461203) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/omprakash) 🐦 <br>
+  ⦿ Shoot Me an [Email](kailashshah835@gmail.com) 💌 <br>
 
 
