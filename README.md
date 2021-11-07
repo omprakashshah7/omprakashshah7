@@ -1,12 +1,12 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello ther <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/sorabh.exe/">
   <img align="left" alt="Sorabh's Insta" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />
 </a>
 <a href="#">
-  <img align="left" alt="Sorabh Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Om Prakash Shah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sorabh-singh-952895209/">
-  <img align="left" alt="Sorabh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Om's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="#">
   <img align="left" alt="Sorabh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
@@ -16,8 +16,8 @@
 
 <br />
 <p align="center">
-    <a href="https://github.com/Sorabh3127/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sorabh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sorabh3127&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/omprakashshah7/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sorabh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashshah7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -26,7 +26,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:sorabh.cu.2001@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:adhfbsbfksn.cu.2001@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
