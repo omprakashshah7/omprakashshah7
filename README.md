@@ -5,7 +5,7 @@ I am Om Prakash Shah, a passionate and creative developer from [🇮🇳 ](https
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashshah7&theme=algolia" alt="omprakashshah7" /></p>
 
-I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, DigitalOcean, AWS,GCP,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana,Kibana and Logstash.
+I ❤️ to work with MERN Technologies and still on the learning phase. I also have an overview of [Kotlin](https://kotlinlang.org/)&nbsp; and have build various small projects and looking for more.
 
 I am currently working as a Problem Setter at CodeChef_CUChapter. I am also into Competitive Programming since last 1 year and have reached 4⭐ at CodeChef and Pupil at Codeforces and many other platforms. I have also contributed to some of the small projects and looking to do more.
 
@@ -91,7 +91,7 @@ I am currently working as a Problem Setter at CodeChef_CUChapter. I am also into
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p align="center"> <img src="https://github-stats-readme.omprakashshah7.vercel.app/api/top-langs/?username=omprakashshah7&layout=compact" alt="omprakashshah7"/>
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=omprakashshah7&layout=compact" alt="omprakashshah7"/>
 
 </details>
 
