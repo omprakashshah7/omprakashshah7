@@ -3,7 +3,7 @@
 
 I am [Ritesh](https://ritesh-yadav.netlify.app/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Natural Language Processing🤖.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARK-art108&theme=algolia" alt="DARK-art108" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashshah7&theme=algolia" alt="omprakashshah7" /></p>
 
 I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, DigitalOcean, AWS,GCP,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana,Kibana and Logstash.
 
@@ -11,7 +11,7 @@ I am currently working as a Data Scientist @[Ineuron.ai](https://ineuron.ai/). I
 
 Along with my full-time job, I also work in maintaining and building open source organization like @𝐏𝐲𝐃𝐚𝐭𝐚 𝐆𝐮𝐧𝐚, @𝐏𝐢𝐞&𝐚𝐢 𝐆𝐮𝐧𝐚, @𝐊𝐚𝐠𝐠𝐥𝐞 𝐃𝐚𝐲𝐬 𝐌𝐞𝐞𝐭𝐮𝐩 𝐃𝐞𝐥𝐡𝐢 𝐍𝐂𝐑 and Participating in Kaggle Competetions, Hackathons and Conferences.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DARK-art108&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=omprakashshah7&label=Profile%20views&color=0e75b6&style=plastic" alt="omprakashshah7" /> </p>
 
 <img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300">
 
